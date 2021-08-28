@@ -14,7 +14,7 @@ namespace upn_T2_q_2
             baseMayor = Convert.ToDouble(Console.ReadLine());
             Console.Write("Ingrese altura: ");
             altura = Convert.ToDouble(Console.ReadLine());
-            areaTrapecio = (base_menor + base_mayor)*altura/2;
+            areaTrapecio = (baseMenor + baseMayor)*altura/2;
             Console.WriteLine("El area del trapecio es: " + Convert.ToString(areaTrapecio));
 
 
