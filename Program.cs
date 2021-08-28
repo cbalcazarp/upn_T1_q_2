@@ -6,7 +6,18 @@ namespace upn_T2_q_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Double baseMenor, baseMayor, altura, areaTrapecio;
+            Console.WriteLine("Bienvenido al programa de cálculo de área de un trapecio");
+            Console.Write("Ingrese base menor: ");
+            baseMenor = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Ingrese base mayor: ");
+            baseMayor = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Ingrese altura: ");
+            altura = Convert.ToDouble(Console.ReadLine());
+            areaTrapecio = (base_menor + base_mayor)*altura/2;
+            Console.WriteLine("El area del trapecio es: " + Convert.ToString(areaTrapecio));
+
+
         }
     }
 }
