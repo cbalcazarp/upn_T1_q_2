@@ -2,3 +2,12 @@ C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\obj\Debug
 C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\obj\Debug\netcoreapp3.1\upn_T2_q_2.AssemblyInfoInputs.cache
 C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\obj\Debug\netcoreapp3.1\upn_T2_q_2.AssemblyInfo.cs
 C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\obj\Debug\netcoreapp3.1\upn_T2_q_2.csproj.CoreCompileInputs.cache
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\bin\Debug\netcoreapp3.1\upn_T2_q_2.exe
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\bin\Debug\netcoreapp3.1\upn_T2_q_2.deps.json
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\bin\Debug\netcoreapp3.1\upn_T2_q_2.runtimeconfig.json
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\bin\Debug\netcoreapp3.1\upn_T2_q_2.runtimeconfig.dev.json
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\bin\Debug\netcoreapp3.1\upn_T2_q_2.dll
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\bin\Debug\netcoreapp3.1\upn_T2_q_2.pdb
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\obj\Debug\netcoreapp3.1\upn_T2_q_2.dll
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\obj\Debug\netcoreapp3.1\upn_T2_q_2.pdb
+C:\Users\xhclcabalcazar\OneDrive - Anglo American\Documents\upn_T2_q_2\obj\Debug\netcoreapp3.1\upn_T2_q_2.genruntimeconfig.cache
